@@ -1,5 +1,9 @@
 # SLTC_robot_Competition
 ## Our Success in the SLTC Robot Competition 2023
+![WhatsApp Image 2023-09-12 at 01 40 43](https://github.com/kaveeshwaragayanath/SLTC_robot_Competition/assets/125355380/004d7261-373d-4f51-9365-ef670736768b)
+
+![WhatsApp Image 2023-09-12 at 01 40 44](https://github.com/kaveeshwaragayanath/SLTC_robot_Competition/assets/125355380/d4c9b455-cc09-425c-a139-bea7fd1641ff)
+
 
 We are thrilled to share our remarkable journey in the prestigious SLTC Robot Competition 2023. This event pushed the boundaries of technical aptitude, innovation, and imagination, and our team emerged victorious.
 
